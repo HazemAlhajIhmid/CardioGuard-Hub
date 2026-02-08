@@ -10,7 +10,7 @@
 
 **بحث أكاديمي متكامل في التعلم الآلي والرعاية الصحية**
 
-[🌐 Live Demo](https://heart-disease-detection.vercel.app/) • 
+[🌐 Live Demo](https://master-thesis-cardio-guard-early-de.vercel.app/) • 
 [📱 Android App](https://play.google.com/store/apps/details?id=com.cardioguard) • 
 [🔗 API Docs](https://cardioguard-api.azurewebsites.net/swagger) • 
 [📖 Full Documentation](#-التوثيق-الكامل)
@@ -82,7 +82,7 @@
 - Responsive Design
 
 🌐 **التجربة المباشرة:**
-- Production: https://heart-disease-detection.vercel.app/
+- Production: https:https://master-thesis-cardio-guard-early-de.vercel.app/
 - مُنشر على Vercel
 - يدعم العربية والإنجليزية
 
@@ -97,7 +97,7 @@
 ### 📱 تطبيق أندرويد (Android App)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
+[![Jetpack Compose](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1)
 [![Play Store](https://img.shields.io/badge/Play_Store-Ready-green?style=for-the-badge&logo=google-play)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
 
 **🔗 Repository:** [CardioGuard-Android-App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
@@ -212,7 +212,7 @@ graph TB
     end
     
     subgraph "Backend"
-        C[🖥️ ASP.NET Core API<br/>Port 5000]
+        C[🖥️ ASP.NET Core API<br/> ِAzure]
     end
     
     subgraph "ML Models"
@@ -518,7 +518,7 @@ Accuracy: (180+172)/380 = 85%
 
 | المشروع | التوثيق |
 |:---:|:---|
-| **Web Frontend** | [README.md](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/README.md) |
+| **Web Frontend** | [README.md](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/README.md) |
 | **Android App** | [README.md](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/blob/main/android/HeartDiseaseApp/README.md) |
 | **Backend API** | [README.md](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API/blob/main/README.md) |
 
@@ -531,7 +531,7 @@ Accuracy: (180+172)/380 = 85%
 - [Project Structure](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API/blob/main/PROJECT_STRUCTURE.md)
 
 #### Frontend Web
-- [Documentation Index](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/DOCUMENTATION_INDEX.md)
+- [Documentation Index](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/README.md)
 - [Testing Guide](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/TESTING_DOCUMENTATION.md)
 - [Deployment Guide](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/DEPLOYMENT_GUIDE.md)
 
