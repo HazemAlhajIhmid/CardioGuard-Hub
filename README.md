@@ -480,23 +480,35 @@ Accuracy: (180+172)/380 = 85%
 
 ## 📸 لقطات الشاشة
 
-### 🌐 تطبيق الويب
+### 🌐 تطبيق الويب (Web Application)
+
+#### النسخة العربية 🇸🇾
 
 <div align="center">
 
 | الصفحة الرئيسية | حاسبة المخاطر | النتائج |
 |:---:|:---:|:---:|
-| ![Home](screenshots/web-home.png) | ![Calculator](screenshots/web-calculator.png) | ![Results](screenshots/web-results.png) |
+| ![الصفحة الرئيسية - عربي](screenshots/frontend/web-home-ar.png) | ![حاسبة المخاطر - عربي](screenshots/frontend/web-calculator-ar.png) | ![النتائج - عربي](screenshots/frontend/web-results-ar.png) |
 
 </div>
 
-### 📱 تطبيق أندرويد
+#### النسخة الإنجليزية 🇬🇧
+
+<div align="center">
+
+| Home Page | Risk Calculator | Results |
+|:---:|:---:|:---:|
+| ![Home - English](screenshots/frontend/web-home-en.png) | ![Calculator - English](screenshots/frontend/web-calculator-en.png) | ![Results - English](screenshots/frontend/web-results-en.png) |
+
+</div>
+
+### 📱 تطبيق أندرويد (Android App)
 
 <div align="center">
 
 | الشاشة الرئيسية | إدخال البيانات | النتائج |
 |:---:|:---:|:---:|
-| ![Home](screenshots/android-home.png) | ![Input](screenshots/android-input.png) | ![Results](screenshots/android-results.png) |
+| ![Home](screenshots/android/android-home.png) | ![Input](screenshots/android/android-input.png) | ![Results](screenshots/android/android-results.png) |
 
 </div>
 
@@ -1116,14 +1128,47 @@ Results:
 
 ## 📸 Screenshots
 
-### Web Application
-<!-- Add screenshots here -->
+### 🌐 Web Application
 
-### Android Application
-<!-- Add screenshots here -->
+#### Arabic Version 🇸🇾
 
-### API Documentation
-<!-- Add screenshots here -->
+<div align="center">
+
+| الصفحة الرئيسية | حاسبة المخاطر | النتائج |
+|:---:|:---:|:---:|
+| ![Home - Arabic](screenshots/frontend/web-home-ar.png) | ![Calculator - Arabic](screenshots/frontend/web-calculator-ar.png) | ![Results - Arabic](screenshots/frontend/web-results-ar.png) |
+
+</div>
+
+#### English Version 🇬🇧
+
+<div align="center">
+
+| Home Page | Risk Calculator | Results |
+|:---:|:---:|:---:|
+| ![Home - English](screenshots/frontend/web-home-en.png) | ![Calculator - English](screenshots/frontend/web-calculator-en.png) | ![Results - English](screenshots/frontend/web-results-en.png) |
+
+</div>
+
+### 📱 Android Application
+
+<div align="center">
+
+| Home Screen | Data Input | Results Screen |
+|:---:|:---:|:---:|
+| ![Android Home](screenshots/android/android-home.png) | ![Android Input](screenshots/android/android-input.png) | ![Android Results](screenshots/android/android-results.png) |
+
+</div>
+
+### 🖥️ Backend API
+
+<div align="center">
+
+| Swagger UI | API Response | Health Check |
+|:---:|:---:|:---:|
+| ![Swagger](screenshots/backend/api-swagger.png) | ![API Response](screenshots/backend/api-response.png) | ![Health](screenshots/backend/api-health.png) |
+
+</div>
 
 ---
 
