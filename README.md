@@ -772,7 +772,7 @@ The system is divided into **three independent yet integrated projects**:
 - Responsive Design
 
 🌐 **Live Demo:**
-- Production: https://heart-disease-detection.vercel.app/
+- Production: https://master-thesis-cardio-guard-early-de.vercel.app/
 - Deployed on Vercel
 - Bilingual support (Arabic/English)
 
