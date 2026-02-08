@@ -517,7 +517,7 @@ Accuracy: (180+172)/380 = 85%
 
 | المشروع | التوثيق |
 |:---:|:---|
-| **Web Frontend** | [README.md](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/README.md) |
+| **Web Frontend** | [README.md](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/README.md) |
 | **Android App** | [README.md](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/blob/main/android/HeartDiseaseApp/README.md) |
 | **Backend API** | [README.md](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API/blob/main/README.md) |
 
@@ -530,7 +530,7 @@ Accuracy: (180+172)/380 = 85%
 - [Project Structure](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API/blob/main/PROJECT_STRUCTURE.md)
 
 #### Frontend Web
-- [Documentation Index](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/DOCUMENTATION_INDEX.md)
+- [Documentation Index](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/README.md)
 - [Testing Guide](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/TESTING_DOCUMENTATION.md)
 - [Deployment Guide](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System/blob/main/frontend/DEPLOYMENT_GUIDE.md)
 
