@@ -97,7 +97,7 @@
 ### 📱 تطبيق أندرويد (Android App)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
-[![Jetpack Compose](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
 [![Play Store](https://img.shields.io/badge/Play_Store-Ready-green?style=for-the-badge&logo=google-play)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
 
 **🔗 Repository:** [CardioGuard-Android-App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
