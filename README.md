@@ -1189,7 +1189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Hazem Alhaj Ihmid**
 
 - 📧 Email: [hazemalhajihmed@gmail.com](mailto:hazem1990alhaj@gmail.com)
-- 💼 LinkedIn: [Hazem Alhaj Ihmid](https://www.linkedin.com/in/hazem-alhaj-ihmid/)
+- 💼 LinkedIn: [Hazem AlhajIhmid](https://www.linkedin.com/in/hazem-alhajihmid/)
 - 🐙 GitHub: [@HazemAlhajIhmid](https://github.com/HazemAlhajIhmid)
 
 ---
