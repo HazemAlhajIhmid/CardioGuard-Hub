@@ -138,7 +138,7 @@
 - SQL Server
 
 ☁️ **النشر:**
-- Production: https://cardioguard-api.azurewebsites.net
+- Production: https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger/index.html
 - مُنشر على Azure App Service
 - CI/CD Pipeline عبر GitHub Actions
 
