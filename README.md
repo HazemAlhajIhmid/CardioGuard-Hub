@@ -82,7 +82,7 @@
 - Responsive Design
 
 🌐 **التجربة المباشرة:**
-- Production: https://heart-disease-detection.vercel.app/
+- Production: https:https://master-thesis-cardio-guard-early-de.vercel.app/
 - مُنشر على Vercel
 - يدعم العربية والإنجليزية
 
