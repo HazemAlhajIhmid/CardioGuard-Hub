@@ -12,7 +12,7 @@
 
 [🌐 Live Demo](https://master-thesis-cardio-guard-early-de.vercel.app/) • 
 [📱 Android App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App) • 
-[🔗 API Docs](https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger/index.html) • 
+[🔗 API Docs](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API) • 
 [📖 Full Documentation](#-التوثيق-الكامل)
 
 </div>
