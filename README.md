@@ -127,7 +127,7 @@
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API)
 [![ML.NET](https://img.shields.io/badge/ML.NET-5.0-blue?style=for-the-badge)](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API)
-[![Azure](https://img.shields.io/badge/Azure-Deployed-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://cardioguard-api.azurewebsites.net/swagger)
+[![Azure](https://img.shields.io/badge/Azure-Deployed-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger/index.html)
 
 **🔗 Repository:** [CardioGuard-Backend-API](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API)
 
