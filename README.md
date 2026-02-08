@@ -211,7 +211,7 @@ graph TB
     end
     
     subgraph "Backend"
-        C[🖥️ ASP.NET Core API<br/>Port 5000]
+        C[🖥️ ASP.NET Core API<br/> ِAzure]
     end
     
     subgraph "ML Models"
