@@ -11,7 +11,7 @@
 **بحث أكاديمي متكامل في التعلم الآلي والرعاية الصحية**
 
 [🌐 Live Demo](https://master-thesis-cardio-guard-early-de.vercel.app/) • 
-[📱 Android App](https://play.google.com/store/apps/details?id=com.cardioguard) • 
+[📱 Android App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App) • 
 [🔗 API Docs](https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger/index.html) • 
 [📖 Full Documentation](#-التوثيق-الكامل)
 
