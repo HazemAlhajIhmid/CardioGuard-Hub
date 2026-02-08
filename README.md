@@ -10,7 +10,7 @@
 
 **بحث أكاديمي متكامل في التعلم الآلي والرعاية الصحية**
 
-[🌐 Live Demo](https://heart-disease-detection.vercel.app/) • 
+[🌐 Live Demo](https://master-thesis-cardio-guard-early-de.vercel.app/) • 
 [📱 Android App](https://play.google.com/store/apps/details?id=com.cardioguard) • 
 [🔗 API Docs](https://cardioguard-api.azurewebsites.net/swagger) • 
 [📖 Full Documentation](#-التوثيق-الكامل)
