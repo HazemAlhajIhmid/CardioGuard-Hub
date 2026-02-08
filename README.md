@@ -502,13 +502,25 @@ Accuracy: (180+172)/380 = 85%
 
 </div>
 
-### 📱 تطبيق أندرويد (Android App)
+### 📱 تطبيق أندرويد (Android App) 📲
+
+#### النسخة العربية 🇸🇾
 
 <div align="center">
 
-| الشاشة الرئيسية | إدخال البيانات | النتائج |
+| الشاشة الرئيسية | حاسبة المخاطر | النتائج |
 |:---:|:---:|:---:|
-| ![Home](screenshots/android/android-home.png) | ![Input](screenshots/android/android-input.png) | ![Results](screenshots/android/android-results.png) |
+| ![الصفحة الرئيسية - عربي](screenshots/android/android-home-ar.png) | ![حاسبة المخاطر - عربي](screenshots/android/android-calculator-ar.png) | ![النتائج - عربي](screenshots/android/android-results-ar.png) |
+
+</div>
+
+#### النسخة الإنجليزية 🇬🇧
+
+<div align="center">
+
+| Home Screen | Risk Calculator | Results |
+|:---:|:---:|:---:|
+| ![Home - English](screenshots/android/android-home-en.png) | ![Calculator - English](screenshots/android/android-calculator-en.png) | ![Results - English](screenshots/android/android-results-en.png) |
 
 </div>
 
@@ -1152,11 +1164,23 @@ Results:
 
 ### 📱 Android Application
 
+#### Arabic Version 🇸🇾
+
 <div align="center">
 
-| Home Screen | Data Input | Results Screen |
+| الشاشة الرئيسية | حاسبة المخاطر | النتائج |
 |:---:|:---:|:---:|
-| ![Android Home](screenshots/android/android-home.png) | ![Android Input](screenshots/android/android-input.png) | ![Android Results](screenshots/android/android-results.png) |
+| ![Home - Arabic](screenshots/android/android-home-ar.png) | ![Calculator - Arabic](screenshots/android/android-calculator-ar.png) | ![Results - Arabic](screenshots/android/android-results-ar.png) |
+
+</div>
+
+#### English Version 🇬🇧
+
+<div align="center">
+
+| Home Screen | Risk Calculator | Results Screen |
+|:---:|:---:|:---:|
+| ![Home - English](screenshots/android/android-home-en.png) | ![Calculator - English](screenshots/android/android-calculator-en.png) | ![Results - English](screenshots/android/android-results-en.png) |
 
 </div>
 
