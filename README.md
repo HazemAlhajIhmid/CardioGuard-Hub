@@ -109,6 +109,7 @@
 - MVVM Architecture
 
 📱 **النشر:**
+- **[📥 تحميل APK v1.2.1](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1)**
 - متاح للتنزيل كـ APK
 - جاهز للنشر على Play Store
 - التطبيق موقّع ومُحزم (.aab)
@@ -681,5 +682,526 @@ Accuracy: (180+172)/380 = 85%
 **تاريخ آخر تحديث:** 8 فبراير 2026  
 **الإصدار:** 1.0.0  
 **الحالة:** ✅ مُكتمل ومُنشر
+
+</div>
+
+---
+---
+
+<div align="center">
+
+# 🏥 CardioGuard - Early Detection of Heart Disease System
+
+### نظام الكشف المبكر عن أمراض القلب
+
+[![Master Thesis](https://img.shields.io/badge/Master_Thesis-2026-blue?style=for-the-badge)](https://github.com/HazemAlhajIhmid/CardioGuard-Hub)
+[![Syrian Virtual University](https://img.shields.io/badge/Syrian_Virtual_University-Research-red?style=for-the-badge)](https://svuonline.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/HazemAlhajIhmid/CardioGuard-Hub)
+
+**Comprehensive Academic Research in Machine Learning and Healthcare**
+
+[🌐 Live Demo](https://heart-disease-detection.vercel.app/) • 
+[📱 Android APK](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1) • 
+[🔗 API Docs](https://cardioguard-api.azurewebsites.net/swagger) • 
+[📖 Documentation](#-documentation)
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+- [Overview](#-overview)
+- [Projects](#-sub-projects)
+- [Technologies](#-technologies-used)
+- [Architecture](#-system-architecture)
+- [Features](#-key-features)
+- [ML Models](#-machine-learning-models)
+- [Installation](#-installation--setup)
+- [Academic Research](#-academic-research)
+- [Results](#-results--statistics)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
+
+---
+
+## 🎯 Overview
+
+**CardioGuard** is a comprehensive heart disease early detection system utilizing **Machine Learning (ML)** techniques and **Data Mining** algorithms. The project aims to improve early diagnosis accuracy and provide accessible self-assessment tools for cardiovascular health monitoring.
+
+### 🌟 Why CardioGuard?
+
+<div align="center">
+
+| 🎯 **Accuracy** | ⚡ **Speed** | 🌐 **Access** | 🔒 **Privacy** |
+|:---:|:---:|:---:|:---:|
+| 85% with Ensemble | < 100ms response | Web + Mobile | No data storage |
+
+</div>
+
+### 📊 Key Statistics
+
+- ✅ **3 Platforms**: Web + Android + REST API
+- ✅ **3 AI Models**: KNN + Naive Bayes + Decision Tree
+- ✅ **13 Medical Parameters**: Comprehensive risk factor analysis
+- ✅ **1000+ Records**: Training data from UCI ML Repository
+- ✅ **Languages**: Arabic 🇸🇾 + English 🇬🇧
+
+---
+
+## 🚀 Sub-Projects
+
+The system is divided into **three independent yet integrated projects**:
+
+<div align="center">
+
+### 🌐 Web Application (Frontend)
+
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://heart-disease-detection.vercel.app/)
+
+**🔗 Repository:** [Master-Thesis--CardioGuard](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System)
+
+📦 **Technologies:**
+- SvelteKit 2.0 + TypeScript 5.0
+- TailwindCSS 3.0
+- Chart.js for visualization
+- Responsive Design
+
+🌐 **Live Demo:**
+- Production: https://heart-disease-detection.vercel.app/
+- Deployed on Vercel
+- Bilingual support (Arabic/English)
+
+✨ **Features:**
+- Modern and intuitive UI
+- Interactive model comparison
+- Visual data charts
+- Mobile-responsive design
+
+---
+
+### 📱 Android Application
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1)
+
+**🔗 Repository:** [CardioGuard-Android-App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)
+
+📦 **Technologies:**
+- Kotlin 2.0 + Jetpack Compose
+- Material Design 3
+- Retrofit for API communication
+- MVVM Architecture
+
+📱 **Deployment:**
+- **[📥 Download APK v1.2.1](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1)**
+- Ready for Play Store publishing
+- Signed and bundled (.aab)
+
+✨ **Features:**
+- Native Android app
+- Material Design 3 UI
+- Full Arabic support with RTL
+- Local result caching
+- Result sharing capabilities
+
+---
+
+### 🖥️ Backend API Server
+
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API)
+[![ML.NET](https://img.shields.io/badge/ML.NET-5.0-blue?style=for-the-badge)](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API)
+[![Azure](https://img.shields.io/badge/Azure-Deployed-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://cardioguard-api.azurewebsites.net/swagger)
+
+**🔗 Repository:** [CardioGuard-Backend-API](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API)
+
+📦 **Technologies:**
+- ASP.NET Core 8.0
+- ML.NET 5.0 for machine learning
+- Entity Framework Core 8.0
+- SQL Server (optional)
+
+☁️ **Deployment:**
+- Production: https://cardioguard-api.azurewebsites.net
+- Deployed on Azure App Service
+- CI/CD via GitHub Actions
+
+✨ **Features:**
+- RESTful API design
+- Swagger/OpenAPI documentation
+- Three ML models
+- Ensemble voting system
+- Comprehensive unit tests
+
+</div>
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend Stack
+- **Framework**: SvelteKit 2.x
+- **Language**: TypeScript 5.0
+- **Styling**: TailwindCSS 3.0
+- **Charts**: Chart.js 4.0
+- **Build Tool**: Vite 7.x
+
+### Backend Stack
+- **Framework**: ASP.NET Core 8.0
+- **Language**: C# 12.0
+- **ML Library**: ML.NET 5.0
+- **Database**: Entity Framework Core 8.0
+- **Testing**: xUnit
+
+### Android Stack
+- **Language**: Kotlin 2.0
+- **UI**: Jetpack Compose
+- **Design**: Material Design 3
+- **Network**: Retrofit 2.9
+- **Architecture**: MVVM
+
+### DevOps & Cloud
+- **Frontend Hosting**: Vercel
+- **Backend Hosting**: Azure App Service
+- **CI/CD**: GitHub Actions
+- **Version Control**: Git & GitHub
+
+---
+
+## 🏗️ System Architecture
+
+```mermaid
+graph TB
+    subgraph "Client Layer"
+        A[🌐 Web Frontend<br/>SvelteKit]
+        B[📱 Android App<br/>Kotlin]
+    end
+    
+    subgraph "API Layer"
+        C[🖥️ Backend API<br/>ASP.NET Core]
+    end
+    
+    subgraph "ML Layer"
+        D[🤖 KNN Model<br/>82% Accuracy]
+        E[🧠 Naive Bayes<br/>82% Accuracy]
+        F[🌳 Decision Tree<br/>70% Accuracy]
+        G[🎯 Ensemble Voting<br/>85% Accuracy]
+    end
+    
+    subgraph "Data Layer"
+        H[(📊 Training Data<br/>UCI Repository)]
+    end
+    
+    A -->|HTTPS/REST| C
+    B -->|HTTPS/REST| C
+    C --> D
+    C --> E
+    C --> F
+    D --> G
+    E --> G
+    F --> G
+    H -.->|Training| D
+    H -.->|Training| E
+    H -.->|Training| F
+    
+    style A fill:#ff3e00
+    style B fill:#7F52FF
+    style C fill:#512BD4
+    style G fill:#4CAF50
+    style H fill:#2196F3
+```
+
+---
+
+## ✨ Key Features
+
+### 🎯 Machine Learning Models
+- **KNN (K-Nearest Neighbors)**: 82% accuracy, best for early detection with 94% recall
+- **Naive Bayes**: 82% accuracy, balanced performance for real-time predictions
+- **Decision Tree**: 70% accuracy, highly interpretable results
+- **Ensemble Voting**: 85% accuracy, combines all three models
+
+### 🌐 Web Frontend Features
+- Modern responsive design
+- Interactive model comparison
+- Real-time predictions
+- Bilingual interface (Arabic/English)
+- Data visualization charts
+- Mobile-optimized experience
+
+### 📱 Android Features
+- Native Material Design 3 UI
+- Offline result caching
+- Result sharing functionality
+- Complete Arabic localization with RTL
+- Fast and lightweight
+
+### 🖥️ Backend API Features
+- RESTful API architecture
+- Swagger/OpenAPI documentation
+- Three ML model endpoints
+- Ensemble prediction endpoint
+- Health check monitoring
+- Comprehensive error handling
+
+---
+
+## 📊 Machine Learning Models
+
+### Model Performance Comparison
+
+| Model | Accuracy | Precision | Recall | F1-Score | Best For |
+|-------|----------|-----------|--------|----------|----------|
+| **KNN** | 82% | 75% | **94%** | 0.83 | Early Detection |
+| **Naive Bayes** | 82% | 80% | 85% | **0.82** | Balanced Performance |
+| **Decision Tree** | 70% | 68% | 74% | 0.71 | Interpretability |
+| **Ensemble** | **85%** | **82%** | 89% | **0.85** | Overall Best |
+
+### Risk Classification System
+
+| Risk Level | Color | Range | Description |
+|-----------|-------|-------|-------------|
+| **Low** | 🟢 Green | 0% - 30% | Low probability of heart disease |
+| **Moderate** | 🟠 Orange | 30% - 60% | Moderate risk, monitoring recommended |
+| **High** | 🔴 Red | 60% - 100% | High risk, medical consultation advised |
+
+### Input Features (13 Parameters)
+
+1. **Age**: Patient age in years
+2. **Sex**: Gender (1 = male, 0 = female)
+3. **Chest Pain Type**: 4 types (0-3)
+4. **Resting Blood Pressure**: mm Hg
+5. **Serum Cholesterol**: mg/dL
+6. **Fasting Blood Sugar**: > 120 mg/dL (1 = true, 0 = false)
+7. **Resting ECG**: Results (0-2)
+8. **Max Heart Rate**: Achieved during exercise
+9. **Exercise Induced Angina**: (1 = yes, 0 = no)
+10. **ST Depression**: Induced by exercise
+11. **ST Slope**: Peak exercise ST segment (0-2)
+12. **Number of Major Vessels**: (0-3)
+13. **Thalassemia**: Blood disorder (0-3)
+
+---
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- **Frontend**: Node.js 18+, npm/pnpm/yarn
+- **Backend**: .NET 8.0 SDK
+- **Android**: Android Studio, JDK 17+
+
+### Frontend Setup
+\`\`\`bash
+# Clone repository
+git clone https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System.git
+cd Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+\`\`\`
+
+### Backend Setup
+\`\`\`bash
+# Clone repository
+git clone https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API.git
+cd CardioGuard-Backend-API
+
+# Restore dependencies
+dotnet restore
+
+# Run application
+dotnet run
+
+# Run tests
+dotnet test
+\`\`\`
+
+### Android Setup
+\`\`\`bash
+# Clone repository
+git clone https://github.com/HazemAlhajIhmid/CardioGuard-Android-App.git
+
+# Open in Android Studio
+# Build and run on device/emulator
+
+# Or download APK directly
+# https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1
+\`\`\`
+
+---
+
+## 🎓 Academic Research
+
+### Research Details
+- **Title**: Early Detection of Heart Disease Using Machine Learning
+- **Institution**: Syrian Virtual University (SVU)
+- **Degree**: Master of Information Technology
+- **Year**: 2026
+- **Field**: Artificial Intelligence & Healthcare
+
+### Research Objectives
+1. Compare effectiveness of different ML algorithms for heart disease prediction
+2. Develop accessible tools for early cardiovascular risk assessment
+3. Create multilingual healthcare applications for Arabic-speaking regions
+4. Demonstrate practical ML applications in medical diagnosis
+5. Provide open-source healthcare technology solutions
+
+### Methodology
+- **Dataset**: UCI Machine Learning Repository - Heart Disease Dataset
+- **Models**: KNN, Naive Bayes, Decision Tree
+- **Techniques**: Ensemble learning, cross-validation, hyperparameter tuning
+- **Development**: Full-stack implementation across three platforms
+
+### Academic Contributions
+- Comparative analysis of ML algorithms for cardiac diagnosis
+- Arabic-first healthcare application development
+- Open-source medical AI toolkit
+- Practical deployment guide for ML models in production
+
+---
+
+## 📈 Results & Statistics
+
+### Model Performance
+
+\`\`\`
+Training Dataset: 1025 records (UCI Heart Disease Dataset)
+Test Split: 80/20 (820 training, 205 testing)
+Cross-Validation: 10-fold
+
+Results:
+├── KNN (k=7)
+│   ├── Accuracy: 82%
+│   ├── Precision: 75%
+│   ├── Recall: 94% ⭐
+│   └── F1-Score: 0.83
+│
+├── Naive Bayes
+│   ├── Accuracy: 82%
+│   ├── Precision: 80%
+│   ├── Recall: 85%
+│   └── F1-Score: 0.82 ⭐
+│
+├── Decision Tree (max_depth=5)
+│   ├── Accuracy: 70%
+│   ├── Precision: 68%
+│   ├── Recall: 74%
+│   └── F1-Score: 0.71
+│
+└── Ensemble Voting
+    ├── Accuracy: 85% ⭐
+    ├── Precision: 82%
+    ├── Recall: 89%
+    └── F1-Score: 0.85 ⭐
+\`\`\`
+
+### System Performance
+- **API Response Time**: < 100ms average
+- **Frontend Load Time**: < 2s
+- **Android App Size**: ~20 MB
+- **Uptime**: 99.9% (Azure/Vercel)
+
+---
+
+## 📸 Screenshots
+
+### Web Application
+<!-- Add screenshots here -->
+
+### Android Application
+<!-- Add screenshots here -->
+
+### API Documentation
+<!-- Add screenshots here -->
+
+---
+
+## 👥 Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting PRs.
+
+### How to Contribute
+1. Fork the repository
+2. Create a feature branch (\`git checkout -b feature/AmazingFeature\`)
+3. Commit your changes (\`git commit -m 'Add some AmazingFeature'\`)
+4. Push to the branch (\`git push origin feature/AmazingFeature\`)
+5. Open a Pull Request
+
+### Code Standards
+- **C#**: Follow Microsoft C# coding conventions
+- **TypeScript**: ESLint + Prettier
+- **Kotlin**: Kotlin coding conventions + ktlint
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📞 Contact
+
+**Hazem Alhaj Ihmid**
+
+- 📧 Email: [hazemalhajihmed@gmail.com](mailto:hazemalhajihmed@gmail.com)
+- 💼 LinkedIn: [Hazem Alhaj Ihmid](https://www.linkedin.com/in/hazem-alhaj-ihmid/)
+- 🐙 GitHub: [@HazemAlhajIhmid](https://github.com/HazemAlhajIhmid)
+
+---
+
+## 🗺️ Roadmap
+
+### ✅ Completed (v1.0)
+
+- [x] Three ML models implementation
+- [x] Web frontend with SvelteKit
+- [x] Android native application
+- [x] Backend REST API
+- [x] Deployment on Azure + Vercel
+- [x] Comprehensive documentation (Arabic/English)
+- [x] Unit & Integration tests
+- [x] CI/CD Pipeline
+
+### 🔮 Future Plans (v2.0+)
+
+- [ ] iOS Application
+- [ ] Neural Network model integration
+- [ ] API v2 with additional features
+- [ ] Admin dashboard for statistics
+- [ ] Progressive Web App (PWA)
+- [ ] Additional language support
+- [ ] Integration with wearable devices
+
+---
+
+<div align="center">
+
+## 🎉 Thank You for Visiting!
+
+If you like this project, don't forget to ⭐ Star the repositories!
+
+**[⬆ Back to Top](#-cardioguard---early-detection-of-heart-disease-system)**
+
+---
+
+**Made with ❤️ in Syria 🇸🇾**
+
+**صُنع بـ ❤️ في سوريا 🇸🇾**
+
+**Last Updated:** February 8, 2026  
+**Version:** 1.0.0  
+**Status:** ✅ Completed & Deployed
 
 </div>
