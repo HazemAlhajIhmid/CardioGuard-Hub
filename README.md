@@ -512,7 +512,7 @@ Accuracy: (180+172)/380 = 85%
 
 | Swagger UI | API Response | Health Check |
 |:---:|:---:|:---:|
-| ![Swagger](screenshots/api-swagger.png) | ![Response](screenshots/api-response.png) | ![Health](screenshots/api-health.png) |
+| ![Swagger](screenshots/backend/api-swagger.png) | ![API Response](screenshots/backend/api-response.png) | ![Health](screenshots/backend/api-health.png) |
 
 </div>
 
