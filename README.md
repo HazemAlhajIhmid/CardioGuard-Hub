@@ -492,15 +492,6 @@ Accuracy: (180+172)/380 = 85%
 
 </div>
 
-#### النسخة الإنجليزية 🇬🇧
-
-<div align="center">
-
-| Home Page | Risk Calculator | Results |
-|:---:|:---:|:---:|
-| ![Home - English](screenshots/frontend/web-home-en.png) | ![Calculator - English](screenshots/frontend/web-calculator-en.png) | ![Results - English](screenshots/frontend/web-results-en.png) |
-
-</div>
 
 ### 📱 تطبيق أندرويد (Android App) 📲
 
@@ -514,15 +505,6 @@ Accuracy: (180+172)/380 = 85%
 
 </div>
 
-#### النسخة الإنجليزية 🇬🇧
-
-<div align="center">
-
-| Home Screen | Risk Calculator | Results |
-|:---:|:---:|:---:|
-| ![Home - English](screenshots/android/android-home-en.png) | ![Calculator - English](screenshots/android/android-calculator-en.png) | ![Results - English](screenshots/android/android-results-en.png) |
-
-</div>
 
 ### 🖥️ Backend API
 
@@ -1142,15 +1124,6 @@ Results:
 
 ### 🌐 Web Application
 
-#### Arabic Version 🇸🇾
-
-<div align="center">
-
-| الصفحة الرئيسية | حاسبة المخاطر | النتائج |
-|:---:|:---:|:---:|
-| ![Home - Arabic](screenshots/frontend/web-home-ar.png) | ![Calculator - Arabic](screenshots/frontend/web-calculator-ar.png) | ![Results - Arabic](screenshots/frontend/web-results-ar.png) |
-
-</div>
 
 #### English Version 🇬🇧
 
@@ -1164,15 +1137,6 @@ Results:
 
 ### 📱 Android Application
 
-#### Arabic Version 🇸🇾
-
-<div align="center">
-
-| الشاشة الرئيسية | حاسبة المخاطر | النتائج |
-|:---:|:---:|:---:|
-| ![Home - Arabic](screenshots/android/android-home-ar.png) | ![Calculator - Arabic](screenshots/android/android-calculator-ar.png) | ![Results - Arabic](screenshots/android/android-results-ar.png) |
-
-</div>
 
 #### English Version 🇬🇧
 
